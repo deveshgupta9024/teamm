@@ -37,5 +37,6 @@ return 0;
 using namespace std;
 int main()
 {
-        cout<<" just trying "<<endl;
-
+        cout<<" just trying and adding void classes"<<endl;
+}
+//just trying to practice branch statment
