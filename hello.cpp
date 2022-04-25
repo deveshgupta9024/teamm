@@ -6,12 +6,13 @@ int main()
 } 
 
 #include<iostream>
+//some code add to 
 using namespace std;
 int main()
 {
 	cout<<"hi third text"<<endl;
 }
-
+//heloo hi 
 #include<iostream>
 using namespace std;
 int main(){
@@ -38,5 +39,8 @@ using namespace std;
 int main()
 {
         cout<<" just trying and adding void classes"<<endl;
+}
+void stu::putdata()
+{
 }
 //just trying to practice branch statment
